@@ -19,7 +19,6 @@ Me chamo Reginaldo Francisco de Lima, tenho 35 anos e sou natural de São Paulo,
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCuG_6UQlbNuxwCe-ABtOS5A?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/ReginaldoLima13?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
