@@ -4,36 +4,6 @@
 
 Me chamo Reginaldo Francisco de Lima, tenho 35 anos e sou natural de São Paulo, Cresci e Moro em Picos, no Piauí, Sou formado em Sistemas de Informação Pela UFPI - PI, e Administração pela UESPI - PI, Sou Apaixonado Por tecnologia e compartilho meus conhecimentos através do meu canal do Youtube "[Programação em Foco](https://www.youtube.com/@programacaoemfoco1325)", onde ensino programação em diversas linguagens. Atuo como professor a 8 anos na rede técnica de educação do Piaui, como professor em cursos relacionados à área de informática como Desenvolvimento de Sistemas, Informática, Redes de Computadores, Informática para Internet e Programação de Jogos Digitais.
 
-<p align="left">
-    <a href="https://www.youtube.com/@programacaoemfoco1325?sub_confirmation=1">
-        <img 
-            alt="Inscreva-se" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCuG_6UQlbNuxwCe-ABtOS5A?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@programacaoemfoco1325">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCuG_6UQlbNuxwCe-ABtOS5A?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ReginaldoLima13?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/ReginaldoLima13?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ReginaldoLima13?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
