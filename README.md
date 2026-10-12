@@ -2,8 +2,15 @@
 
 **`Professor de Informática e Desenvolvedor Full-Stack`**
 
-Me chamo Reginaldo Francisco de Lima, tenho 35 anos e sou natural de São Paulo, Cresci e Moro em Picos, no Piauí, Sou formado em Sistemas de Informação Pela UFPI - PI, e Administração pela UESPI - PI, Sou Apaixonado Por tecnologia e compartilho meus conhecimentos através do meu canal do Youtube "[Programação em Foco](https://www.youtube.com/@programacaoemfoco1325)", onde ensino programação em diversas linguagens. Atuo como professor a 8 anos na rede técnica de educação do Piaui, como professor em cursos relacionados à área de informática como Desenvolvimento de Sistemas, Informática, Redes de Computadores, Informática para Internet e Programação de Jogos Digitais.
+Sobre mim
 
+Meu nome é Reginaldo Francisco de Lima, tenho 35 anos e sou natural de São Paulo (SP). Cresci e moro em Picos (PI). Sou formado em Sistemas de Informação pela Universidade Federal do Piauí (UFPI) e em Administração pela Universidade Estadual do Piauí (UESPI).
+
+Sou apaixonado por tecnologia, programação e pelo desenvolvimento de soluções que possam melhorar a vida das pessoas. Há 8 anos, atuo como professor na rede de educação técnica do Piauí, ministrando disciplinas e cursos relacionados à tecnologia, incluindo Desenvolvimento de Sistemas, Informática, Redes de Computadores, Informática para Internet e Programação de Jogos Digitais.
+
+Também compartilho meus conhecimentos por meio do meu canal no YouTube, Programação em Foco, onde produzo conteúdos educacionais sobre programação em diferentes linguagens. Essa experiência fortalece minha capacidade de aprender continuamente, resolver problemas, organizar ideias e explicar conceitos técnicos de forma clara.
+
+Atualmente, busco uma oportunidade como desenvolvedor back-end júnior, preferencialmente em regime remoto, na qual eu possa aplicar meus conhecimentos em tecnologia, continuar evoluindo profissionalmente e contribuir para o desenvolvimento de sistemas e soluções de software úteis, eficientes e capazes de gerar impacto positivo na vida das pessoas.
 ---
 
 ### 🤖 Linguagens e Tecnologias
