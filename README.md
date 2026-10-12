@@ -95,6 +95,16 @@ Me chamo Reginaldo Francisco de Lima, tenho 35 anos e sou natural de São Paulo,
 />
 <br/>
 <br/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"    
+/>
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
